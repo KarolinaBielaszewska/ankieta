@@ -1,7 +1,7 @@
 {
   "name": "wtf-gulp-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "`npm install -g gulp-cli`",
   "main": "index.js",
   "scripts": {
     "predeploy": "gulp build",
